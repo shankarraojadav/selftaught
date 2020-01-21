@@ -1,1 +1,1 @@
-# selftaught
+# Notepad in python tkinter
